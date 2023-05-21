@@ -1,0 +1,8 @@
+[2023-04-07 12:36:39,044] WARNING [werkzeug._log:224]  * Debugger is active!
+[2023-04-07 12:36:39,046] INFO [werkzeug._log:224]  * Debugger PIN: 124-479-885
+[2023-04-07 12:36:39,780] INFO [werkzeug._log:224] 127.0.0.1 - - [07/Apr/2023 12:36:39] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2023-04-07 12:36:39,916] INFO [werkzeug._log:224] 127.0.0.1 - - [07/Apr/2023 12:36:39] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-04-07 12:36:40,127] INFO [werkzeug._log:224] 127.0.0.1 - - [07/Apr/2023 12:36:40] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-04-07 12:36:40,461] INFO [werkzeug._log:224] 127.0.0.1 - - [07/Apr/2023 12:36:40] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-04-07 12:36:40,720] INFO [werkzeug._log:224] 127.0.0.1 - - [07/Apr/2023 12:36:40] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-04-07 12:37:47,486] INFO [werkzeug._log:224]  * Detected change in 'D:\\Machine-Learning-Project\\src\\utils.py', reloading
