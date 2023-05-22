@@ -2,6 +2,6 @@ pandas
 numpy
 opencv-python
 tensorflow
-flask
-gunicorn
+Flask
+Gunicorn
 # -e.
